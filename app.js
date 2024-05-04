@@ -1,5 +1,5 @@
-#! usr/bin/env  node
-//SHANANG
+#! /usr/bin/env  node
+//SHABANG
 import inquirer from "inquirer";
 //firstly we have to make a five digit unique student id
 let studentid = Math.floor(10000 + Math.random() * 70000);
